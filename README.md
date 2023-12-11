@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align ="right" alt ="coding" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+<img align ="right" alt ="coding" width="400" src="https://media1.tenor.com/m/D-xKkvBWCYUAAAAC/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssatyamm07&label=Profile%20views&color=0e75b6&style=flat" alt="ssatyamm07" /> </p>
 
