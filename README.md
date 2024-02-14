@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssatyamm07&label=Profile%20views&color=0e75b6&style=flat" alt="ssatyamm07" /> </p>
 
-- 🔭 I’m currently working on **MEAN STACK DEVELOPMENT**
+- 🔭 I’m currently working on **MERN STACK DEVELOPMENT**
 - **Following Harkirat Cohort 2**
 
 - 🌱 I’m currently learning **EXPRESS.js And Postman**
