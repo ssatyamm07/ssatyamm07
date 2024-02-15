@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **EXPRESS.js And Postman**
 
+- **In search of internship in web developer**
+
 - 📫 How to reach me **satyamraj151.rajgir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
