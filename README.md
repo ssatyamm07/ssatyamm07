@@ -13,8 +13,7 @@
 - **In search of internship in web developer**
 
 - 📫 How to reach me **satyamraj151.rajgir@gmail.com**
-- **Building Portfolio*"
-- 
+- **Building Portfolio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
