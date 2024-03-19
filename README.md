@@ -13,7 +13,7 @@
 - **In search of internship in web development**
 
 - 📫 How to reach me **satyamraj151.rajgir@gmail.com**
-- **Working on React**
+- **Working on React+vite project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
