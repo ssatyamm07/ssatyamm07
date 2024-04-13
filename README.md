@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **EXPRESS.js And Postman**
 
-- **In search of internship in web development**
+- **In search of internship in web-development**
 
 - 📫 How to reach me **satyamraj151.rajgir@gmail.com**
 - **Working on React+vite project** 
