@@ -12,7 +12,7 @@
 
 - **In search of internship in web-development**
 
-- 📫 How to reach me **satyamraj151.rajgir@gmail.com**
+- 📫 How to reach me **https://portfolio-updated-eta.vercel.app/**
 - **Working on React+vite project** 
 
 <h3 align="left">Connect with me:</h3>
