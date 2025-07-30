@@ -8,9 +8,9 @@
 - 🔭 I’m currently working on **MERN STACK DEVELOPMENT**
 - **Following Harkirat Cohort 2**
 
-- 🌱 I’m currently learning **EXPRESS.js And Postman**
+- 🌱 I’m currently intern at **bytexl**
 
-- **In search of internship in web-development**
+- **In search of FullTime Opportunity in web-development**
 
 - 📫 How to reach me **https://portfolio-updated-eta.vercel.app/**
 - **Working on React+vite project** 
