@@ -1,19 +1,14 @@
-<h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
+pp<h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
 <img align ="right" alt ="coding" width="400" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssatyamm07&label=Profile%20views&color=0e75b6&style=flat" alt="ssatyamm07" /> </p>
 
-- 🔭 I’m currently working on **MERN STACK DEVELOPMENT**
-- **Following Harkirat Cohort 2**
+- 🔭 I’m currently working in **Swiggy as Process Automation Engineer**
 
-- 🌱 I’m currently intern at **bytexl**
 
-- **In search of FullTime Opportunity in web-development**
-
-- 📫 How to reach me **https://portfolio-updated-eta.vercel.app/**
-- **Working on React+vite project** 
+- 📫 How to reach me **https://say-hi-satyam.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
